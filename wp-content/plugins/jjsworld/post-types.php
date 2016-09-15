@@ -462,7 +462,7 @@ function print_photosets(){
 					<br/><br/><br/>
 					[<?php echo $datetaken;?>]
 				</p>
-				<div style="background-image: url('<?php echo $url_s;?>');">
+				<div style="background-image: url('<?php echo $url_m;?>');">
 				</div>
 			</li>
 			</a>
